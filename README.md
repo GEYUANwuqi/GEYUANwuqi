@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there 👋 This is GEYUANwuqi
 
-<!--
-**GEYUANwuqi/GEYUANwuqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=GEYUANwuqi" alt="GEYUANwuqi's GitHub stats" />
+      </a>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GEYUANwuqi&layout=compact" alt="Top Langs" />
+    </td>
+  </tr>
+</table>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![trophy](https://github-profile-trophy.vercel.app/?username=GEYUANwuqi)](https://github.com/ryo-ma/github-profile-trophy)

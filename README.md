@@ -1,5 +1,5 @@
 ## Hi there 👋 This is GEYUANwuqi
-
+<!--
 <table>
   <tr>
     <td>
@@ -14,3 +14,4 @@
 </table>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=GEYUANwuqi)](https://github.com/ryo-ma/github-profile-trophy)
+-->
